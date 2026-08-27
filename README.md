@@ -4,7 +4,7 @@ Control volume and media playback directly from your mouse using **Caps Lock** a
 
 Turn your mouse into a lightweight media controller without interrupting normal mouse behavior.
 
-![Open Source](./stickers/SaraVieira-stickers/deconstructing-unicorn/unicorn.png)
+![Open Source](./src/opensource.png)
 This is Open Source!
 
 ## Features
