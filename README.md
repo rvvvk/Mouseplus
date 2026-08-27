@@ -5,7 +5,7 @@ Control volume and media playback directly from your mouse using **Caps Lock** a
 Turn your mouse into a lightweight media controller without interrupting normal mouse behavior.
 
 ![Open Source](./src/opensource.png)
-This is Open Source!
+### Open Source
 
 ## Features
 
@@ -44,7 +44,7 @@ No interruptions. No remapping unless media mode is active.
 
 ### Download
 
-1. Download **`mouse+ by rvvv.k.exe`** from the main repository.
+1. Download **`mouseplus by rvvvk.exe`** from the main repository.
 2. Run the `.exe` file.
 
 Done.
