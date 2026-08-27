@@ -44,7 +44,7 @@ No interruptions. No remapping unless media mode is active.
 
 ### Download
 
-1. Download **`mouseplus by rvvvk.exe`** from the main repository.
+1. Download **`mouseplus.exe`** from the main repository.
 2. Run the `.exe` file.
 
 Done.
