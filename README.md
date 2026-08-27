@@ -41,11 +41,10 @@ No interruptions. No remapping unless media mode is active.
 
 ## Installation
 
-### Option 1: Download Release (Recommended)
+### Download
 
-1. Download the latest release from the **Releases** page
-2. Extract the ZIP file
-3. Run `enam's mouse media.exe`
+1. Download **`mouse+ by rvvv.k.exe`** from the main repository.
+2. Run the `.exe` file.
 
 Done.
 
@@ -86,4 +85,4 @@ This project uses a custom license.
 
 Usage is allowed for personal use only. Redistribution, mirroring, republishing, and modified redistribution are not permitted.
 
-Please share using the official repository or release page only.
+Please share using the official repository only.
